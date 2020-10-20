@@ -7,7 +7,7 @@
  * 				클래스 내부	같은 패키지		상속받은 클래스		이외의 영역
  * private		   o			x				 x				x
  * default		   o			o				 x				x
- * protected	        o 			     o				      o			         x
+ * protected	          o 			 o				  o			        x
  * public		   o			o				 o				o
  * 
  */
